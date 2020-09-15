@@ -2,6 +2,6 @@
 "student":[
 {"id":1,"name":"ram","age":40},
 {"id":2,"name":"sai","age":30},
-{"id":3,"name":"krishna","age":45},
+{"id":3,"name":"krishna","age":45}
 ]
 }
